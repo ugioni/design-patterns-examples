@@ -8,3 +8,5 @@ Patterns Criacionais:
 - Abstract Factory
 - Builder
 - Singleton
+
+- teste
